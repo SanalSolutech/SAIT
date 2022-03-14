@@ -4655,7 +4655,7 @@ ul.dropdown-menu>li.has-dropdown>a:before {
 	font-weight   : 400;
 	margin-bottom : 0;
 	color         : #fff;
-	text-transform: capitalize;
+	text-transform: initial;
 }
 
 .top-bar .top-contact .contact-infos a:hover {
